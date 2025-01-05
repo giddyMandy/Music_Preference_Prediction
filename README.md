@@ -1,4 +1,4 @@
-# Music Preference Prediction with Machine Learning
+# Music Preference Prediction with DecisionTree Classifier
 ## Table of contents
 -[Project Description](#project-description)
 - [Dataset](#dataset)
