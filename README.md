@@ -15,7 +15,7 @@ This dataset contains information about a sample of individuals and their music 
 data source: kaggle
 
 ### Tools
-The language used is python, the tool used is Goodle colab
+The language used is python, the tool used is Google colab
 
 ### Exploratory Data Analysis
 - Getting a sence of the data types(numerical, categorical).
